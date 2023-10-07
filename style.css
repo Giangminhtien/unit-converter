@@ -1,3 +1,8 @@
 .n1, .n2, .result {
   width: 85px;
 }
+
+.container {
+  width: fit-content;
+  height: fit-content;
+}

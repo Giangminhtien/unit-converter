@@ -6,10 +6,18 @@
   width: fit-content;
   height: fit-content;
 
-  
+  background-color: aqua;
 }
 
 .length {
   width: fit-content;
   height: fit-content;
+}
+
+.parent {
+  display: flex;
+
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
 }
